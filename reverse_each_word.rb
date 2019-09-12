@@ -1,3 +1,4 @@
 def reverse_each_word(str)
-  array = string.split
+  array = string.split(" ")
+  
 end
